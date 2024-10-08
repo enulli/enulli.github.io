@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enulli.github.io/xEZ/sitemap.xEZ.gz
